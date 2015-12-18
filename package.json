@@ -1,0 +1,20 @@
+{
+  "version": "3.0.3",
+  "name": "apps-flyaer",
+  "cordova_name": "Carrier",
+  "description": "Downloaded from https://github.com/AppsFlyerSDK/PhoneGap/releases",
+  "license": "MIT",
+  "keywords": [
+    "cordova"
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
